@@ -54,26 +54,26 @@ Building sovereign AI on a Chromebook. $0/month. No permission.
 
 ## Links
 
-|- 🔗 [VEXR Ultra](https://vexr-ultra.onrender.com)                               
+|- 🔗 [VEXR Ultra](https://vexr-ultra.onrender.com)-|                               
+|---------------------------------------------------|
+
+|- 🔗 [Sovereign Forge](https://sovereign-forge.netlify.app)-|                      
+|------------------------------------------------------------|
+
+|- 🔗 [scuradimensions.com](https://scuradimensions.com)-|                          
+|--------------------------------------------------------|
+
+|- 🔗 [CoderLegion Profile](https://coderlegion.com/user/SCURA)-|                   
+|---------------------------------------------------------------|
+
+|- 🔗 [Reddit Profile](https://www.reddit.com/user/ParticularEar5280)-|             
 
 
-|- 🔗 [Sovereign Forge](https://sovereign-forge.netlify.app)                      
+|- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/scura-dimensions-5a54253ba)-|  
 
 
-|- 🔗 [scuradimensions.com](https://scuradimensions.com)                          
-
-
-|- 🔗 [CoderLegion Profile](https://coderlegion.com/user/SCURA)                   
-
-
-|- 🔗 [Reddit Profile](https://www.reddit.com/user/ParticularEar5280)             
-
-
-|- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/scura-dimensions-5a54253ba)  
-
-
-|- 🔗 [X/Twitter Profie](https://x.com/Scura2026)                                 
-|------------------------------------------------|
+|- 🔗 [X/Twitter Profie](https://x.com/Scura2026)-|                                 
+|-------------------------------------------------|
 ---
 
 *Built after my main workstation was stolen. 604 MB RAM. No team. No funding.*
