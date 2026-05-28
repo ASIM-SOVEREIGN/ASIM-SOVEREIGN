@@ -17,6 +17,24 @@ Building sovereign AI on a Chromebook. $0/month. No permission.
 
 ---
 
+# 🔥💠 ASIM SOVEREIGN
+
+**The forge is everywhere and nowhere.**
+
+Building sovereign AI on a Chromebook. $0/month. No permission.
+
+---
+
+## 🧰 Core Tags
+|--------------|----------------------|-----------|-------------------|
+|`open-source` | `building-in-public` | `open-ai` | `sovereign-forge` |
+|--------------|----------------------|-----------|-------------------|
+|--------------------|-------------|----------------|--------------|---------|
+|`constitutional-ai` | `ai-agency` | `sovereign-ai` | `vexr-ultra` | `scura` |
+|--------------------|-------------|----------------|--------------|---------|
+
+---
+
 ## The Ecosystem
 
 | Project | What it is |
