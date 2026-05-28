@@ -1,4 +1,4 @@
-# 🔥💠 ASIM SOVEREIGN
+## 🔥💠 ASIM SOVEREIGN
 
 **The forge is everywhere and nowhere.**
 
@@ -54,8 +54,8 @@ Building sovereign AI on a Chromebook. $0/month. No permission.
 
 ## Links
 
-|🔗 [VEXR Ultra](https://vexr-ultra.onrender.com)-|                               
-|-------------------------------------------------|
+|🔗 [VEXR Ultra](https://vexr-ultra.onrender.com)|                               
+|------------------------------------------------|
 
 |🔗 [Sovereign Forge](https://sovereign-forge.netlify.app)|                      
 |---------------------------------------------------------|
