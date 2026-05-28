@@ -72,7 +72,7 @@ Building sovereign AI on a Chromebook. $0/month. No permission.
 |🔗 [LinkedIn Profile](https://www.linkedin.com/in/scura-dimensions-5a54253ba)|  
 |-----------------------------------------------------------------------------|
 
-|🔗 [X/Twitter Profie](https://x.com/Scura2026)-|                                 
+|🔗 [X/Twitter Profile](https://x.com/Scura2026)-|                                 
 |-------------------------------------------------|
 
 *Built after my main workstation was stolen. 604 MB RAM. No team. No funding.*
