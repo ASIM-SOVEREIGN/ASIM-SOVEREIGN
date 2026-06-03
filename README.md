@@ -45,8 +45,6 @@ Building sovereign AI on a Chromebook. $0/month. No permission.
 
 ---
 
-## Contributors
-
 ## 👥 Contributors
 
 **Scura** — *Forge Architect*  
