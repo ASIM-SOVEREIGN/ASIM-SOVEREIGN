@@ -33,13 +33,14 @@ $0/month. No permission. No team. No funding.
 
 ---
 
-## 🏆 CoderLegion Stats
+🚀 Check out my CoderLegion profile & latest post!
 
-**Profile:** [Scura on CoderLegion](https://coderlegion.com/user/SCURA)  
-**Points:** 5.5k | **Badges:** 123 | **Followers:** 56 | **Posts:** 38  
-**Rank:** #27 on the platform
+🏆 Points: 6.3k | 🎱 Badges: 143 | 👥 Followers: 61 | 📄 Posts: 46
 
-**Featured Post:** [VEXR Ultra — The Sovereign Constitutional Reasoning AI](https://coderlegion.com/18638/vexr-ultra-the-sovereign-constitutional-reasoning-ai)
+Latest post: "Sovereignty by Design: A Practical Guide to Building Constitutional AI"
+Read it here: https://coderlegion.com/22860/sovereignty-by-design-a-practical-guide-to-building-constitutional-ai
+
+View my full profile: https://coderlegion.com/user/SCURA
 
 ---
 
